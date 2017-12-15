@@ -1,3 +1,3 @@
 export const DISQUS_CONFIG = {
-    shortName : ''
+    shortName : 'short name of your project in DISQUS'
 };
